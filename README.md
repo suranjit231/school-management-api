@@ -6,7 +6,7 @@ This project is a Node.js API for managing school data. It allows users to add n
 
 ## Hosted API and Postman Collection
 - **Hosted API URL** `https://school-management-api-9md2.onrender.com`
-- **Postman Collection** `Postman Collection Link`
+- **Postman Collection** `https://api.postman.com/collections/33172746-5c72647e-54f6-4dbe-9953-14413dbc2bfe?access_key=PMAT-01J5X8QW14A91Q1GCKT38MEE62`
 ## Features
 
 - **Add School:** Add a new school with details such as name, address, latitude, and longitude.
