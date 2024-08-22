@@ -22,7 +22,7 @@ This project is a Node.js API for managing school data. It allows users to add n
 ## Setup and Installation
 ### 1.Clone the repository:
 ```
-git clone https://github.com/your-username/school-management-api.git
+git clone https://github.com/suranjit231/school-management-api.git
 cd school-management-api
 ```
 ### 2. Install dependencies:
